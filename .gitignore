@@ -1,0 +1,13 @@
+node_modules
+.env
+coverage
+coverage.json
+yarn.lock
+typechain
+
+#Hardhat files
+cache
+artifacts
+
+#macos
+.DS_Store
