@@ -1,19 +1,25 @@
-## Quickstart
+## Setup
 
 ```
 cd toy-erc20
 yarn
 ```
 
-# Usage
+## Usage
 
-## Compile
+### Compile
 
 ```
 yarn hardhat compile
 ```
 
-## Testing
+### Deploy
+
+```
+yarn hardhat deploy
+```
+
+### Testing
 
 ```
 yarn hardhat test
